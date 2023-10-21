@@ -1,0 +1,13 @@
+@media screen and (max-width: 1024px){
+    .main{
+        display: flex;
+        flex-direction: column;
+        height: 500px;
+        justify-content:"space-between";
+        align-items:"center";
+        overflow:"hidden";
+        
+    }
+    
+}
+
