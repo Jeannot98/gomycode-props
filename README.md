@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://gomycode-props.pages.dev).
-[live](https://gomycode-props.pages.dev).
+This project was bootstrapped with [Props demo](https://gomycode-props.pages.dev).
+
 
 ## Available Scripts
 
